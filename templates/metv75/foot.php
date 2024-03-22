@@ -35,10 +35,10 @@
                         <img src='{$lang.footinfo_wx|thumb:112,112}' alt='{$c.met_webname}'>
                         <p class="weixintext">{$lang.erweima_one}</p>
                     </div>
-                    <!-- <div class="imgbox2 col-lg-6 col-md-6 col-xs-6">
+                    <div class="imgbox2 col-lg-6 col-md-6 col-xs-6">
                         <img src='{$lang.footinfo_wx2|thumb:112,112}' alt='{$c.met_webname}'>
                         <p class="weixintext">{$lang.erweima_two}</p>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <!-- 关注我们二维码 -->
